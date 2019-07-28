@@ -25,6 +25,6 @@ hand is used to zoom out,
 You can add any additional functions using above gestures gesture.
 
 **right now only fin_2 (two fingers) --> next slide is working with ease.
-**still facing issues with the influence on slides as it gets continuous inputs and that causes the slides to abruptly and continously without delay.
+**still facing issues with the influence on slides as it gets continous inputs and that causes the slides to change abruptly and continously without delay.
 
 Hand gestures examples are shown in images.
